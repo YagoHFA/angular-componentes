@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+
+.my-app {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.my-app > h1 {
+  color: darkred;
+}
